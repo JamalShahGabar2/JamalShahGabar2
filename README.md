@@ -15,9 +15,9 @@ I'm a dedicated Software Engineering student at the University of Bradford with 
 
 ### 🚀 What I’m Working On
 
-- **GD_Khan Academic Portfolio Website** – A professional animated site built with HTML, CSS, and scroll-based JavaScript effects.
-- **Sports Online CDN System** – A PHP-based system for managing and displaying sports content with image handling.
-- **BD25 Academic Evaluation Tool** – A Java desktop application with database connectivity, role-based access, and media tracking.
+- **Portfolio Website** – A professional animated site built with HTML, CSS, and scroll-based JavaScript effects.
+- **Sports Online System** – A PHP-based system for managing and displaying sports content with image handling.
+- **Academic Evaluation Tool** – A Java desktop application with database connectivity, role-based access, and media tracking.
 
 ---
 
